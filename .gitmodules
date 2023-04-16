@@ -1,0 +1,6 @@
+[submodule "KhoDVD"]
+	path = KhoDVD
+	url = https://github.com/NguyenKhanhNam1050080065/DVDPro.git
+[submodule "javabase"]
+	path = javabase
+	url = https://github.com/NguyenKhanhNam1050080065/javabase.git
